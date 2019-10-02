@@ -16,6 +16,7 @@ _global_script_class_icons={
 [application]
 
 config/name="lp-test-poop"
+run/main_scene="res://level_1.tscn"
 config/icon="res://icon.png"
 
 [rendering]
